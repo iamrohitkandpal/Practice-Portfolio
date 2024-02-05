@@ -61,6 +61,7 @@ body {
   width: 70px;
   height: 37px;
   font-size: 18px;
+  margin-top: 20px;
   border-radius: 21px;
   background-color: black;
 }
@@ -71,11 +72,11 @@ body {
   align-items: center;
   justify-content: center;
   height: 30px;
-  width: 142.5px;
+  width: 150px;
   position: absolute;
   bottom: 17%;
   right: 0%;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 #hero-photo {
